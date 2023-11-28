@@ -13,4 +13,5 @@ public class HighscoreText : MonoBehaviour {
 		highscore.text = "High Score : " + PlayerPrefs.GetInt ("highscore") ;
 			
 		}	
+	
 }
